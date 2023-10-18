@@ -3,7 +3,7 @@
 
 This is a bare-bones Angular project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
 
-Click this button and it will help you create a new repo, create a new Netlify project, and deploy!
+Click this button and it will help you create a new repo, create a new Netlify project, and deploy! TEST
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/angular-quickstart)
 
