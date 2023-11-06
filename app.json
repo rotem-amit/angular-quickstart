@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "addons":[
-        "memcachedcloud:100"
+        "rediscloud:100"
       ]
     }
   }
