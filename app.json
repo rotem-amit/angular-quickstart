@@ -2,7 +2,7 @@
   "environments": {
     "test": {
       "addons":[
-        "rediscloud:250"
+        "rediscloud:100"
       ]
     }
   }
