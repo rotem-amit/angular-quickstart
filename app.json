@@ -1,9 +1,14 @@
 {
   "environments": {
     "test": {
-      "addons":[
-        "rediscloud:100"
-      ]
+  "addons": [
+    "rediscloud",
+    {
+      "plan": "rediscloud:100",
+      "as": "rediscloud"
     }
+    
+  ]
+}
   }
 }
