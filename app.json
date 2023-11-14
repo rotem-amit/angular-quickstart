@@ -1,7 +1,9 @@
-"environments": {
+{
+  "environments": {
     "test": {
       "addons":[
-        "memcachedcloud:30"
+        "memcachedcloud"
       ]
     }
   }
+}
